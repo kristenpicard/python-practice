@@ -1,0 +1,23 @@
+KNOWLEDGE:
+1. be able to tell me the 3 primative data types you know
+2. be able to tell me the 5 primative arrithmatic operators are in python
+3. be able to tell me what the 2 additional primative operators are in python that build on the 5 
+5. be able to tell me what if/else statements are used for
+6. be able to tell me what the 6 comparison (think if/else) operators are in python
+7. be able to tell me what the 3 logical (think if/else) operators are in python 
+8. be able to tell me what 2 loops you have learned, what the difference is, and when to use each and why
+9. be able to tell me what a function does and how to write and use one
+10. be able to tell me what recursion is, why you would use it, and how you use is
+11. be able to tell me what a class does, why and when you would use it, how to use a class
+12. be able to tell me what a list is, why and when you would use it, and how you access its elements
+13. be able to tell me how to use 2 objects for different classes together
+14. be able to tell me what class inheritance is, why its useful, and when and how to use it
+
+PRACTICAL:
+1. be able to build basic functions on your own using each of the data types you know
+2. be able to use if/else statements to solve problems
+3. be able to use for & while loops or recursive functions appropriately
+4. be able to solve the fibonacci problem (or similar) on your own
+5. be able to solve the fuzzbuzz problem (or similar) on your own
+6. be able to solve the perfect shuffle problem (or similar) on your own
+7. be able to build multiiple classes & objects (with/without inheritance) to solve a problems on your own
